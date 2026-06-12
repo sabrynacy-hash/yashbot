@@ -12,7 +12,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 # =====================================================================
 #                          🛡️ CORE CONFIGURATION
 # =====================================================================
-BOT_TOKEN = "7993044323:AAG2IAwoWYDrkDEqBm4j68Ix0Qjjwkx0pJ8"
+BOT_TOKEN = "7993044323:AAFHo1Hf1zuaP3Q96LcNxnbIM3SzrkPI37Y"
 OWNER_ID =  7319702722
 # Professional Production Logging Infrastructure
 logging.basicConfig(
